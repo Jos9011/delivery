@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.texto1{
+    text-align: center;
+    padding: 15px;
+    font-size: 22px;
+    background-color: blue;
+    a{
+        color: white;
+        padding: 10px;
+    }
+}
+.img1{
+    height: 50vh;
+    background-image: url(capa.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.texto2{
+    padding-top: 50px;
+    text-align: justify;
+    margin-left: 290px ;
+    margin-right: 250px;
+    padding-bottom: 50px;
+    h1{
+        padding-bottom: 20px;
+        font-size: 29px;
+    }
+    p{
+        font-size: 18px;
+    }
+}
+.texto3{
+    text-align: justify;
+    margin-left: 290px ;
+    margin-right: 250px;
+    padding-bottom: 50px;
+    h1{
+        padding-bottom: 20px;
+        font-size: 29px;
+    }
+    p{
+        font-size: 19px;
+    }
+
+}
+.img02{
+    margin-left: 290px ;
+margin-right: 270px;
+img{
+    width: 1250px;
+}
+}
+.texto4{
+    padding-top: 10px;
+    text-align: justify;
+    margin-left: 290px ;
+    margin-right: 250px;
+    padding-bottom: 50px;
+    h1{
+        padding-bottom: 20px;
+        font-size: 29px;
+    }
+    p{
+        font-size: 19px;
+    }
+}
+.texto5{
+    text-align: justify;
+    margin-left: 290px ;
+    margin-right: 250px;
+    h1{
+        padding-bottom: 20px;
+    }
+    h3{
+        padding-bottom: 20px;
+    }
+}
+.link1{
+    margin-left: 290px ;
+    margin-right: 250px;
+    margin-top: 15px;
+    text-align: justify;
+    p{
+        display: inline;
+        background-color: blue;  
+        color: white;
+        font-size: 15px; 
+        padding: 8px;
+        
+    }
+}
